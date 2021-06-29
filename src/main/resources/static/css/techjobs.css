@@ -30,6 +30,7 @@ table.job-listing {
 }
 
 table.job-listing td:first-child {
+    color: purple;
     font-weight: bold;
 }
 
